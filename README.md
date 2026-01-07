@@ -1,5 +1,5 @@
 GitHub Repository:
-https://github.com/Sadhana-4474/gk-lite
+https://github.com/Sadhana-4474/gk-lites
 
 ## GK Lite – MCQ Generator
 
